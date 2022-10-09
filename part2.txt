@@ -9,5 +9,3 @@ Question 8 passcode: coolcoolcool
 Question 9 passcode: 2020sucked
 fetch('./question10.jpg');
 name="question11" content="a11yComesFirst"
-ata-question12Passcode="iLoveWebDev"
-Passcode: JavaScriptRules
