@@ -1,4 +1,9 @@
 Fill in the passphrases here.
-greenEggsAndHam
-YouFoundMe
-a11yComesFirst
+question 1: greenEggsAndHam
+data-question2="iHateCplusplus"
+Question 5 Passcode: SvelteBeatsReact
+Question 7 Passcode: YouFoundMe
+Question 8 passcode: coolcoolcool
+Question 9 passcode: 2020sucked
+fetch('./question10.jpg');
+name="question11" content="a11yComesFirst"
