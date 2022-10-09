@@ -7,6 +7,6 @@ ThisIsJS
 YouFoundMe
 coolcoolcool
 2020sucked
-fetch('./question10.jpg');
+./question10.jpg
 a11yComesFirst
 iLoveWebDev
