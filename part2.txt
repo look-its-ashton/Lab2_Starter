@@ -4,6 +4,7 @@ data-question2="iHateCplusplus"
 Passcode for question 3: HTMLRocks
 <question-four style="display:none">Passcode: JavaScriptRules
 Question 5 Passcode: SvelteBeatsReact
+Question 6 Passcode: ThisIsJS
 Question 7 Passcode: YouFoundMe
 Question 8 passcode: coolcoolcool
 Question 9 passcode: 2020sucked
